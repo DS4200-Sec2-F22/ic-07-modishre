@@ -12,3 +12,7 @@ body {
   fill: darkcyan;
 }
 
+
+.centered_header {
+  text-align: center;
+}
